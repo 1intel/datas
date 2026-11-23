@@ -1,1 +1,1 @@
-038382219029c9cb0d7b0308b1d45f7537cf5a47b98f493f6d0e30c8947fb15d  region_descriptions.json.zip
+0d4f65268d510fbd73ce5e8116f7830df50bcbceec75146a0bc53fd36c68335d  scene_graphs.json.zip
