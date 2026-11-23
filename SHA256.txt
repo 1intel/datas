@@ -1,1 +1,1 @@
-5ff2c072f8099f2d2ce484bd6957bf179f046d2ad37bc36555edf8bb84cb5291  raw-wiktextract-data.jsonl.gz
+038382219029c9cb0d7b0308b1d45f7537cf5a47b98f493f6d0e30c8947fb15d  region_descriptions.json.zip
